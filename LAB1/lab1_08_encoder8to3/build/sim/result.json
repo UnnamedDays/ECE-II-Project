@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-fc1a943f2d6247849c70a38892f7294d",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "d4cddbb0060258d3ae19ff5bd411b3496e464efa60b726aefef05f40e8c5b0b6",
+    "src/encoder8x3.v": "f6c9bd2cea77f2602b4e7d61e0291c99471e71f5a3a307350debb02430c7334b",
+    "sim/tb_encoder8x3.sv": "b4fabdc99a14f294500592fc1e36a6b7b1137633ed3748081805baf41f91694f"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab1_08_encoder8to3\\build\\sim\\run-fc1a943f2d6247849c70a38892f7294d\\simulation.log"
+}
