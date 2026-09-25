@@ -1,0 +1,13 @@
+{
+  "status": "SIMULATED",
+  "run": "run-07f9e6dcec2e4ae793c4bdc4b69076dd",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "377a4efc479cfde176e0dce3fb16aaa001b681385882dcfc4fe41630764e1dca",
+    "src/segment_scan8.v": "3df38cf94641909de9420f6d2bd5c96815f9d9e22f7c590e9f4b764599bd2519",
+    "src/input_frontend.v": "2f495aaa2de56f7cc826e5546d6022fc575f9bb008e0b2e1764555cc82b81a39",
+    "src/lab2_segment_scan.v": "08f3cf383611514308bbf5039bcfcbb419bc29a751fd9d8f739b0b1ba6008353",
+    "sim/tb_segment_scan8.sv": "e697a0d26973d54846b7bf7ffa0c4af06d16af46f02aa530b0089eda2c3db47d"
+  },
+  "wave_sha256": "97a59eb9a7d5fdea9d245929329dcbbcdda260115f4c17365f1cf8b39a3583aa"
+}
