@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-8ec09d8dce764381a6c6410e08fec427",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "53acc6b298a90a962992c173858011e5dfbc17b27ef10b341fc77e545d59778a",
+    "src/demux_1x8.v": "024e4634cdf598369c9e0ffbcd5854be07f5320de0b8fb32d19bc844b7461c05",
+    "sim/tb_demux_1x8.sv": "e7fc4afe07f62bb09fdd35b0d4664a30e5f3820b6e1aff5fa3b88b2d36a107dd"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab1_07_demux1to8\\build\\sim\\run-8ec09d8dce764381a6c6410e08fec427\\simulation.log"
+}
