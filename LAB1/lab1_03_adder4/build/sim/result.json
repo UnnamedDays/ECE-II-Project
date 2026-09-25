@@ -1,0 +1,11 @@
+{
+  "status": "SIMULATED",
+  "run": "run-102ae0df854c4a029558751619d836aa",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "963f88036bc5a9b57e04ab87f05728e613425fe7fbbaeeaded1efcd00c2c20da",
+    "src/adder_4bit.v": "cf28460f1fbff6cf579bffe285c8404d0d3a57df59398378a5d3d84903dd3ec4",
+    "sim/tb_adder_4bit.sv": "8273aac7510a8f3fff1c4ef630d49f3cc928a1aad0e055520cb1366e0f0f28f4"
+  },
+  "wave_sha256": "27c631d58bdb48c30c5fe32460854adbc382c7dd950d98c15ccca2953fb6053c"
+}

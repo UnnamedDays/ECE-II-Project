@@ -1,0 +1,4 @@
+warning: Some design elements have no explicit time unit and/or
+       : time precision. This may cause confusing timing results.
+       : Affected design elements are:
+       :   -- module adder_4bit declared here: C:\Users\kjh36\Documents\Verilog\lab1_03_adder4\src\adder_4bit.v:1
