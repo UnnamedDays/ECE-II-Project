@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-b1a5e8cf66fd40acaf4486a068904582",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "b6ca653884508c688c95f7a4edd0ec180d486db64fa49b62c54289161d831f1f",
+    "src/compare_4.v": "06959f26ee4ef72d0ab82fed3c514c93a53f2c9fa03e90b62827992800ba7408",
+    "sim/tb_compare_4.sv": "4a70474266dfb3a0929983bf98625107c4498a39a3ed9cacda4b401974e13e0c"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab1_05_comparator4\\build\\sim\\run-b1a5e8cf66fd40acaf4486a068904582\\simulation.log"
+}
