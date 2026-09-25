@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-985e37f530414ddfb73b1df47a15e02f",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "9222a3e91370f0504f783d021080c755f8730e79f67f989b20acc329ed52a5e6",
+    "src/decoder3x8.v": "5ba0082880e95e13bef0fbecdb3191da93dcedb5b808d034a687e317ff81708a",
+    "sim/tb_decoder3x8.sv": "afa03d4aa59ffe6ae0d25cdb72ba3a51627813a4e67dc7b78923b520dff81ba0"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab1_09_decoder3to8\\build\\sim\\run-985e37f530414ddfb73b1df47a15e02f\\simulation.log"
+}
