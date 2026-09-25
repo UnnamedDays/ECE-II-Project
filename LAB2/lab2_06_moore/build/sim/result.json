@@ -1,0 +1,13 @@
+{
+  "status": "SIMULATED",
+  "run": "run-63dec349f5b04e07925937366c2becbc",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "abe22c1ae455ac27a09e07afbcbceb6b37cd04b2c8c8b6a8cd4b2799410b1579",
+    "src/moore_cycle.v": "c4fc9380ce630fd165523abd459af25c17cb5cb8a332168250f58f38c955aa95",
+    "src/input_frontend.v": "e5cb9897fdaa35121f38732a74c5578e57bb22fdc8e3b278402e6bb6e501dfb6",
+    "src/lab2_moore.v": "734f48a950d09356946bed2b77f4f39284c752271291a8ec60ec97bed370cd46",
+    "sim/tb_moore_cycle.sv": "559a9dc05308a298ac94e93e1df92beec089bedc70a515cd2b323a9d8c5bb152"
+  },
+  "wave_sha256": "0cf82d387407ec5ea742a593b0b993757b015b4aaeb8bf98729917f5abf811f7"
+}
