@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-92cd571597a2476da79ebad5989f962a",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "de172ad2e00846ce7fe4eb652ef56828e20adaeb933be09850c16f5d5ac462c1",
+    "src/mux_4x1.v": "7d469f682ed028c3d3e7717b7a6621ed3c3de3c40caf3762ad9a7d6675f5d108",
+    "sim/tb_mux_4x1.sv": "d3a01d5468b4278dd15bdea35ae8a94590bf390df34ba662e6222741f7888688"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab1_06_mux4to1\\build\\sim\\run-92cd571597a2476da79ebad5989f962a\\simulation.log"
+}
