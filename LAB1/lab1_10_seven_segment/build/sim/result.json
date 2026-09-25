@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-cffce924a60b4e4d87b0f01f11a03860",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "9732f367903c9d95f76904adc070ea0d7f11d5824c271420a8d407d4a2237243",
+    "src/seg_decoder.v": "ae9b2f3ac5dbe213e38b4e55c510fa427ebd31bc520fdc9af7bc28cb42d05cba",
+    "sim/tb_seg_decoder.sv": "f4c27f503bd8e524125776bfa54d82604ee295b1e5e81cef36fb77e3586e7bf7"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab1_10_seven_segment\\build\\sim\\run-cffce924a60b4e4d87b0f01f11a03860\\simulation.log"
+}

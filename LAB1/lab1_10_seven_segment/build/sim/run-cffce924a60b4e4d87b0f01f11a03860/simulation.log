@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+FATAL: C:\Users\kjh36\Documents\Verilog\lab1_10_seven_segment\sim\tb_seg_decoder.sv:41: FAIL seg_decoder vector=0 expected=fc actual=60
+       Time: 10000  Scope: tb_seg_decoder
