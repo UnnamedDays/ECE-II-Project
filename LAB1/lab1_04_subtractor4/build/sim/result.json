@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-d6ac41b72cea4444a261276d5c85ad17",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "efeb87d8a208dde8a61ecb97ab1facd3acd689b7159d21f489ba4064a72a12b9",
+    "src/sub_4bit.v": "824b57793ac3622b5f24abdf74faef5a3576ef9948c88368cb3ae3ffba24cf74",
+    "sim/tb_sub_4bit.sv": "63f35967f1c80e5287aa5c9de8ccd3be272c5dd263754127969c808940f6f792"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab1_04_subtractor4\\build\\sim\\run-d6ac41b72cea4444a261276d5c85ad17\\simulation.log"
+}

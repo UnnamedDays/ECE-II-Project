@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+FATAL: C:\Users\kjh36\Documents\Verilog\lab1_04_subtractor4\sim\tb_sub_4bit.sv:24: FAIL sub_4bit vector=0 expected=00 actual=10
+       Time: 10000  Scope: tb_sub_4bit
