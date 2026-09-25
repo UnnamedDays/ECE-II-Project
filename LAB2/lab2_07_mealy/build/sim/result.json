@@ -1,0 +1,13 @@
+{
+  "status": "SIMULATED",
+  "run": "run-102314c69a95472a92be1d1aa502066c",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "bf0fc2503750b30bee3aba86ab54dba79ec3fdad72ac144db670d86902f1690b",
+    "src/mealy_toggle.v": "c40254744de2a5af31480967439d40d8dadf4fc1eeaaacd7e1680099f63b7dcf",
+    "src/input_frontend.v": "b93641d9bc9fb13623799f7a8e387a36155fb2b369126d0f05e9bc0af1043f62",
+    "src/lab2_mealy.v": "dade69ef9e6379e125dcc06df264bef41547431fbbf8a5c74b9ee92ae5ffab7d",
+    "sim/tb_mealy_toggle.sv": "e683520d822780c925db97caa1d505b428f21536d6afa1fb75ec28a7dae1f123"
+  },
+  "wave_sha256": "cf73c5f1dcf192beb9e6307bb97ad061c38049e9347a8480b759ef472f08e833"
+}
