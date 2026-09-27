@@ -1,0 +1,23 @@
+VCD info: dumpfile wave.vcd opened for output.
+level=0 threshold=0 count=2 led=0
+level=0 threshold=0 count=3 led=0
+level=0 threshold=0 count=4 led=0
+level=0 threshold=0 count=5 led=0
+level=0 threshold=0 count=6 led=0
+level=0 threshold=0 count=7 led=0
+level=0 threshold=0 count=8 led=0
+level=0 threshold=0 count=9 led=0
+level=0 threshold=0 count=0 led=0
+level=0 threshold=0 count=1 led=0
+level=1 threshold=1 count=1 led=1
+level=1 threshold=1 count=2 led=0
+level=1 threshold=1 count=3 led=0
+level=1 threshold=1 count=4 led=0
+level=1 threshold=1 count=5 led=0
+level=1 threshold=1 count=6 led=0
+level=1 threshold=1 count=7 led=0
+level=1 threshold=1 count=8 led=0
+level=1 threshold=1 count=9 led=0
+level=1 threshold=1 count=0 led=0
+FATAL: D:\VSCODE\lab3_19_led_pwm\sim\tb_led_pwm.sv:52: level=3 high=1
+       Time: 831000  Scope: tb_led_pwm.expect_level

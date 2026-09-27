@@ -1,0 +1,389 @@
+$date
+	Mon Sep 28 02:30:02 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_led_pwm $end
+$var wire 8 ! led [7:0] $end
+$var reg 1 " button $end
+$var reg 1 # clk_50mhz $end
+$var reg 1 $ rst_p $end
+$var integer 32 % checks [31:0] $end
+$var integer 32 & high_count [31:0] $end
+$var integer 32 ' i [31:0] $end
+$scope module dut $end
+$var wire 1 " button $end
+$var wire 1 # clk_50mhz $end
+$var wire 1 $ rst_p $end
+$var wire 1 ( pwm $end
+$var wire 1 ) press $end
+$var wire 8 * led [7:0] $end
+$var parameter 32 + CLK_HZ $end
+$var parameter 32 , DEBOUNCE_CYCLES $end
+$var parameter 32 - LEVELS $end
+$var parameter 32 . PWM_HZ $end
+$var reg 4 / level [3:0] $end
+$scope module u_button $end
+$var wire 1 " button $end
+$var wire 1 # clk $end
+$var wire 1 $ rst_p $end
+$var parameter 32 0 COUNT_WIDTH $end
+$var parameter 32 1 STABLE_CYCLES $end
+$var reg 1 2 accepted $end
+$var reg 1 3 button_meta $end
+$var reg 1 4 button_sync $end
+$var reg 1 ) pulse $end
+$var reg 1 5 stable_count $end
+$upscope $end
+$scope module u_pwm $end
+$var wire 1 # clk $end
+$var wire 4 6 level [3:0] $end
+$var wire 1 $ rst_p $end
+$var parameter 32 7 COUNT_WIDTH $end
+$var parameter 32 8 LEVELS $end
+$var parameter 32 9 PERIOD_CYCLES $end
+$var reg 4 : count [3:0] $end
+$var reg 1 ( pwm $end
+$var integer 32 ; threshold [31:0] $end
+$upscope $end
+$upscope $end
+$scope task expect_level $end
+$var integer 32 < expected [31:0] $end
+$upscope $end
+$scope task press_button $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1010 9
+b1010 8
+b100 7
+b10 1
+b1 0
+b1100100 .
+b1010 -
+b10 ,
+b1111101000 +
+$end
+#0
+$dumpvars
+bx <
+bx ;
+bx :
+bx 6
+x5
+x4
+x3
+x2
+bx /
+bx *
+x)
+x(
+bx '
+bx &
+b0 %
+1$
+0#
+0"
+bx !
+$end
+#10000
+b0 ;
+04
+03
+0)
+02
+05
+b0 !
+b0 *
+0(
+b0 :
+b0 /
+b0 6
+1#
+#20000
+0#
+#30000
+1#
+#40000
+0#
+#50000
+b1 :
+b0 '
+b0 &
+b0 <
+0$
+1#
+#60000
+0#
+#70000
+b10 :
+1#
+#71000
+b1 '
+#80000
+0#
+#90000
+b11 :
+1#
+#91000
+b10 '
+#100000
+0#
+#110000
+b100 :
+1#
+#111000
+b11 '
+#120000
+0#
+#130000
+b101 :
+1#
+#131000
+b100 '
+#140000
+0#
+#150000
+b110 :
+1#
+#151000
+b101 '
+#160000
+0#
+#170000
+b111 :
+1#
+#171000
+b110 '
+#180000
+0#
+#190000
+b1000 :
+1#
+#191000
+b111 '
+#200000
+0#
+#210000
+b1001 :
+1#
+#211000
+b1000 '
+#220000
+0#
+#230000
+b0 :
+1#
+#231000
+b1001 '
+#240000
+0#
+#250000
+b1 :
+1#
+#251000
+1"
+b1 %
+b1010 '
+#260000
+0#
+#270000
+b10 :
+13
+1#
+#280000
+0#
+#290000
+14
+b11 :
+1#
+#300000
+0#
+#310000
+b100 :
+15
+1#
+#320000
+0#
+#330000
+1)
+12
+05
+b101 :
+1#
+#340000
+0#
+#350000
+b1 ;
+b1 /
+b1 6
+b110 :
+0)
+1#
+#360000
+0#
+#370000
+03
+b111 :
+0"
+1#
+#380000
+0#
+#390000
+b1000 :
+04
+1#
+#400000
+0#
+#410000
+15
+b1001 :
+1#
+#420000
+0#
+#430000
+b0 :
+02
+05
+1#
+#440000
+0#
+#450000
+b1 :
+b11111111 !
+b11111111 *
+1(
+1#
+#460000
+0#
+#470000
+b10 :
+b0 !
+b0 *
+0(
+1#
+#480000
+0#
+#490000
+b11 :
+b11 <
+1#
+#500000
+0#
+#510000
+b100 :
+1#
+#520000
+0#
+#530000
+b101 :
+1#
+#540000
+0#
+#550000
+b110 :
+1#
+#560000
+0#
+#570000
+b111 :
+1#
+#580000
+0#
+#590000
+b1000 :
+1#
+#600000
+0#
+#610000
+b1001 :
+1#
+#620000
+0#
+#630000
+b0 '
+b0 :
+1#
+#640000
+0#
+#650000
+b1 :
+b11111111 !
+b11111111 *
+1(
+1#
+#651000
+b1 '
+b1 &
+#660000
+0#
+#670000
+b10 :
+b0 !
+b0 *
+0(
+1#
+#671000
+b10 '
+#680000
+0#
+#690000
+b11 :
+1#
+#691000
+b11 '
+#700000
+0#
+#710000
+b100 :
+1#
+#711000
+b100 '
+#720000
+0#
+#730000
+b101 :
+1#
+#731000
+b101 '
+#740000
+0#
+#750000
+b110 :
+1#
+#751000
+b110 '
+#760000
+0#
+#770000
+b111 :
+1#
+#771000
+b111 '
+#780000
+0#
+#790000
+b1000 :
+1#
+#791000
+b1000 '
+#800000
+0#
+#810000
+b1001 :
+1#
+#811000
+b1001 '
+#820000
+0#
+#830000
+b0 :
+1#
+#831000
+b1010 '

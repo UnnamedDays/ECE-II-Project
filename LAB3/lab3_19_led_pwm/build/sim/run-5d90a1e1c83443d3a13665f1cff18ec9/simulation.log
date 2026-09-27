@@ -1,0 +1,45 @@
+VCD info: dumpfile wave.vcd opened for output.
+button=0 press=x level=x
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=0 press=0 level=0
+button=1 press=0 level=0
+button=1 press=0 level=0
+button=1 press=0 level=0
+button=1 press=0 level=0
+button=1 press=1 level=0
+button=1 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+button=0 press=0 level=1
+FATAL: D:\VSCODE\lab3_19_led_pwm\sim\tb_led_pwm.sv:45: level=3 high=1
+       Time: 831000  Scope: tb_led_pwm.expect_level
