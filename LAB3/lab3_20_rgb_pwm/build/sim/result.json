@@ -1,0 +1,13 @@
+{
+  "status": "SIMULATED",
+  "run": "run-9e063d7be1354b4384ad64e0992f7297",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "c6d32a77b73ae798c3729622492fa55751b1da3c7975c85ebd6bd5d2f1293251",
+    "src/button_onepulse.v": "f4cb23b5c81e87ed1ecab0233983a5685d7b01b2f97d92bb0ebbbcb6915afe88",
+    "src/pwm_channel.v": "e7042328d2434dfee27137e433539862733cfec4ebe45a1039c762b48d73e571",
+    "src/lab3_rgb_pwm.v": "bfc7444d387bb782e3c74e3cbba596ea6b027adecfed8c252477cda0330eee15",
+    "sim/tb_rgb_pwm.sv": "199dfef074768fde646022d225307b21e73c5e264bee810cb8e43ec36ef6e3dc"
+  },
+  "wave_sha256": "3413cc0e1569b41955f175c33ec5382b1ecd2009d8302a569a406e4b5c5a6d94"
+}
