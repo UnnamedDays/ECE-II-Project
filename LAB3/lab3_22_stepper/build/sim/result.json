@@ -1,0 +1,11 @@
+{
+  "status": "SIMULATED",
+  "run": "run-aa3c5d2da4a84ad997d50c6111913168",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "4c406d51f66bc87c9b87a8cca6eaf721649e7525dba76758c9eec2ebd2b23a8e",
+    "src/lab3_stepper.v": "39f11b1d15e3cd60efa0afc6d3ef2b6a928062ee54d76afab95cc79849741cb0",
+    "sim/tb_stepper.sv": "bf61eaff7b125b97c8f9bb4986ec0aad808f818aaa1c6bee30e64b8a1db5ba9e"
+  },
+  "wave_sha256": "fe8dd7dcf3bf7dbd0daa7b6212697b31f962b91622367eb96bfb9dbb06b6e65f"
+}
