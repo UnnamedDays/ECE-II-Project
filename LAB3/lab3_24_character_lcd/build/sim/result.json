@@ -1,0 +1,11 @@
+{
+  "status": "SIMULATED",
+  "run": "run-ec1673b523f74472a3ddebc23287bc3e",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "d5a330f493761ba188d6fe98f4cd1176c87877a8f76c1ccdd5df8cc4802cbb80",
+    "src/lab3_character_lcd.v": "8e96d576ceda9e4e143a4967df85c35d1315ccceba32866392250a7421cbdc3b",
+    "sim/tb_character_lcd.sv": "ebcc1f8d85542b1fc945b2458656e4c5c6f54fc784c212883442d485d91c2e0b"
+  },
+  "wave_sha256": "f5275cb488da3be53585436e03be51364d4fb8c2e09a004fbcf7f40bbdc20c45"
+}
