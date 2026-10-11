@@ -1,0 +1,10 @@
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:64:6:HAL_MspInit	16	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:91:6:HAL_I2C_MspInit	128	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:138:6:HAL_I2C_MspDeInit	16	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:169:6:HAL_SPI_MspInit	48	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:215:6:HAL_SPI_MspDeInit	16	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:247:6:HAL_TIM_Base_MspInit	24	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:277:6:HAL_TIM_MspPostInit	40	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:309:6:HAL_TIM_Base_MspDeInit	16	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:345:6:HAL_UART_MspInit	136	static
+D:/VSCODE/stm32_lab/Core/Src/stm32g4xx_hal_msp.c:432:6:HAL_UART_MspDeInit	16	static

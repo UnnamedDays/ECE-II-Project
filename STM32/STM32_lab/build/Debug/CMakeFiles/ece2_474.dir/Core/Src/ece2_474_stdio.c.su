@@ -1,0 +1,3 @@
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_stdio.c:15:5:__io_putchar	24	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_stdio.c:29:5:__io_getchar	16	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_stdio.c:42:5:_read	32	static

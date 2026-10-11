@@ -1,0 +1,11 @@
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:19:6:ece2_474_init	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:52:6:polling_routine	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:60:13:button_isr_p7	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:68:13:tim6_isr_p4	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:78:13:uart2_isr_p6	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:87:13:uart3_isr_p5	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:93:13:gpio_in_pullup_isr_p8_ece2	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:99:13:gpio_in_pulldown_isr_p9_ece2	4	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:107:6:HAL_GPIO_EXTI_Callback	16	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:124:6:HAL_TIM_PeriodElapsedCallback	16	static
+D:/VSCODE/stm32_lab/Core/Src/ece2_474_routine.c:133:6:HAL_UART_RxCpltCallback	16	static

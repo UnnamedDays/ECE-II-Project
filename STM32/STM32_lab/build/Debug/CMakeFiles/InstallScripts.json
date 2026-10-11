@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/VSCODE/stm32_lab/build/Debug/cmake_install.cmake",
+		"D:/VSCODE/stm32_lab/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
