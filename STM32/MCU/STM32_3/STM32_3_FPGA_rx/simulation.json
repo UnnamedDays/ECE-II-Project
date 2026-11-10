@@ -1,0 +1,5 @@
+{
+  "sources": ["src/spi_rx.v", "src/edge_detector.v", "src/top_spi_rx.v"],
+  "testbench": "sim/tb_spi_rx.v",
+  "simulation_top": "tb_spi_rx"
+}
