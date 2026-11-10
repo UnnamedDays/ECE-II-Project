@@ -1,0 +1,11 @@
+{
+  "status": "FAILED",
+  "run": "run-c53ff52014c44007a567ccd09fa15c3f",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "07154a1ca29e679fb560e0e63f235855478295779db75ea6210113a601fb5977",
+    "src/mult_4bit.v": "bdfc8afd4c1fae3e308e4aa51fbd35512ec2ea2f4d17c6a0987b4620afcbab07",
+    "sim/tb_mult_4bit.v": "b0427e7f4179d8b4fcc1828da3971b8306b371ac118a90163c82c022d70bbc3c"
+  },
+  "error": "종료 코드 1: C:\\Users\\kjh36\\Documents\\Verilog\\lab4_01_multi\\build\\sim\\run-c53ff52014c44007a567ccd09fa15c3f\\compile.log"
+}
