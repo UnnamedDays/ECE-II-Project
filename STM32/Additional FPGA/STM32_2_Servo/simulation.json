@@ -1,0 +1,5 @@
+{
+  "sources": ["src/servo_ctrl.v", "src/servo_position.v", "src/servo_pwm.v"],
+  "testbench": "sim/tb_servo.v",
+  "simulation_top": "tb_servo"
+}
