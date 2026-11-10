@@ -1,0 +1,3 @@
+VCD info: dumpfile ./wave.vcd opened for output.
+PASS piano: all 8 tones, silence, multiple keys, reset
+D:\VSCODE\lab4_FPGA_Piano\sim\tb_piano.v:44: $finish called at 4796000 (1ps)

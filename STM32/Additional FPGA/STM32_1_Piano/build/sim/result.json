@@ -1,0 +1,13 @@
+{
+  "status": "SIMULATED",
+  "run": "run-c8b6d679c975498db8511e0f198774ed",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "5ef6165fde257d3744be111df20bfbae70518de309654e015c2d85d8df003c0e",
+    "src/note_select.v": "604f86831ecca365133b5cb91d8acbdfcbd396722da5b9f5c21debc54dc25f88",
+    "src/square_tone.v": "1cf52edc7f247795903b88cacafb3cd396d33d91efddbe80baacf60aa1213afb",
+    "src/piano.v": "cccbc2f0ae233a6471ab1975a6c2767cae7a2783cf0012a63278e185814db30f",
+    "sim/tb_piano.v": "36b6f700aafebf793d8575709bc7a405a0b5c34dde2123a309216d3fa0031f8b"
+  },
+  "wave_sha256": "1b7eb1f53950e8cc96f06e22ed9cd61b80364fec7a5f308ba84e1c499335a39d"
+}

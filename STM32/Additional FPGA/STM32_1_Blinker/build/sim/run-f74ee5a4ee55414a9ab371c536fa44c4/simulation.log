@@ -1,0 +1,2 @@
+PASS traffic: full cycle, pedestrian blink, flicker, reset
+D:\VSCODE\lab4_FPGA_Blinker\sim\tb_blinker.v:46: $finish called at 2186000 (1ps)

@@ -1,0 +1,5 @@
+{
+  "sources": ["src/traffic.v", "src/second_tick.v", "src/traffic_sequence.v", "src/traffic_lights.v"],
+  "testbench": "sim/tb_blinker.v",
+  "simulation_top": "tb_blinker"
+}
