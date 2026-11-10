@@ -1,0 +1,13 @@
+{
+  "status": "SIMULATED",
+  "run": "run-0cd906b50edd4c20ac8fd02a6b07bcc6",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "943c7973fe3a10bf2fc31d01661eef0703ef4e3f1929636a493bc3df61b8f5d4",
+    "src/dac.v": "8e4942bf6db87d9bd51d31af9ae5a48d5cbd4c2431259632a21ac4f4c6bbedf2",
+    "src/ramp8.v": "9ead0a0c1a7aea74b341f47474dfc52a1f0249c8a081d254a401156e285ba7d5",
+    "src/dac_parallel8.v": "fdf674dab51e4ec5fc4137ca1b32b3c83e3ceb545b7de95f6e91ce83382aa6fd",
+    "sim/tb_dac.v": "e1d8a2d81f5766da803f38203b2d5236cdc21a44a1530aa22ac6e461bd0108a0"
+  },
+  "wave_sha256": "2c63ae0fd2932e730716c89fba5419daa91ecc34c79279052eff6faad835767a"
+}
