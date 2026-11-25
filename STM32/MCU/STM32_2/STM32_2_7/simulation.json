@@ -1,0 +1,5 @@
+{
+  "sources": ["src/UART.v"],
+  "testbench": "sim/tb_UART.v",
+  "simulation_top": "tb_UART"
+}
